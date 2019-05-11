@@ -1,0 +1,12 @@
+If table is full and search cannot find anything in one iteration, then it goes in infinite loop
+
+If noOfElements == sizeoftable, then insertion should fail.
+
+go to mehul to see test cases and report
+
+Check all algos for 50 insertions, then 100 insertions...
+
+Then check when load factor tends to 1.
+
+Then ch
+
